@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dc87c3c6-b23c-4e1a-ab06-0b35c6fb2164": {
+      "ProjectGuid": "dc87c3c6-b23c-4e1a-ab06-0b35c6fb2164",
+      "DisplayName": "WebApiArtistas",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
