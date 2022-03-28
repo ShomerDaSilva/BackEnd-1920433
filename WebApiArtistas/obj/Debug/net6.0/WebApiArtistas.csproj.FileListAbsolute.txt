@@ -59,3 +59,6 @@ C:\Users\Shome\source\repos\WebApiArtistas\WebApiArtistas\obj\Debug\net6.0\ref\W
 C:\Users\Shome\source\repos\WebApiArtistas\WebApiArtistas\obj\Debug\net6.0\WebApiArtistas.pdb
 C:\Users\Shome\source\repos\WebApiArtistas\WebApiArtistas\obj\Debug\net6.0\WebApiArtistas.genruntimeconfig.cache
 C:\Users\Shome\source\repos\WebApiArtistas\WebApiArtistas\obj\Debug\net6.0\WebApiArtistas.csproj.AssemblyReference.cache
+C:\Users\Shome\source\repos\WebApiArtistas\WebApiArtistas\bin\Debug\net6.0\WebApiArtistas.staticwebassets.runtime.json
+C:\Users\Shome\source\repos\WebApiArtistas\WebApiArtistas\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Shome\source\repos\WebApiArtistas\WebApiArtistas\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

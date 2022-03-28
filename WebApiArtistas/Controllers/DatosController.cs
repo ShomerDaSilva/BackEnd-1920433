@@ -9,12 +9,15 @@ namespace WebApiArtistas.Controllers
     public class DatosController: ControllerBase
     {
         private readonly ApplicationDbContext dbContext;
-        public DatosController (ApplicationDbContext context)
+        private readonly ILogger<DatosController> log;
+        public DatosController (ApplicationDbContext context, ILogger<DatosController> log)
         {
             this.dbContext = context;
+            this.log = log;
         }
 
         [HttpGet]
+        [HttpGet("/listadoDato")]
         public async Task<ActionResult<List<Dato>>> GetAll()
         {
             return await dbContext.Dato.ToListAsync();
@@ -23,6 +26,7 @@ namespace WebApiArtistas.Controllers
         [HttpGet("{id:int}")]
         public async Task<ActionResult<Dato>> GetById(int id)
         {
+            log.LogInformation("EL ID ES: " + id);
             return await dbContext.Dato.FirstOrDefaultAsync(x => x.Id == id);
         }
 

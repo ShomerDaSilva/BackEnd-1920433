@@ -1,11 +1,88 @@
 {
   "Version": 1,
-  "Hash": "SnHerQyQ1h1dcKw2dILZOrzDpVLLwdsnZi4/lvOUUxQ=",
+  "Hash": "4AV8iAds7hjF9K2s+GIjHdPDb4q7KqjPI5hmRa7EbE4=",
   "Source": "WebApiArtistas",
   "BasePath": "_content/WebApiArtistas",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApiArtistas\\wwwroot",
+      "Source": "WebApiArtistas",
+      "ContentRoot": "C:\\Users\\Shome\\source\\repos\\WebApiArtistas\\WebApiArtistas\\wwwroot\\",
+      "BasePath": "_content/WebApiArtistas",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Shome\\source\\repos\\WebApiArtistas\\WebApiArtistas\\wwwroot\\ArchivoEj1.txt",
+      "SourceId": "WebApiArtistas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shome\\source\\repos\\WebApiArtistas\\WebApiArtistas\\wwwroot\\",
+      "BasePath": "_content/WebApiArtistas",
+      "RelativePath": "ArchivoEj1.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ArchivoEj1.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Shome\\source\\repos\\WebApiArtistas\\WebApiArtistas\\wwwroot\\MiProfewFav.txt",
+      "SourceId": "WebApiArtistas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shome\\source\\repos\\WebApiArtistas\\WebApiArtistas\\wwwroot\\",
+      "BasePath": "_content/WebApiArtistas",
+      "RelativePath": "MiProfewFav.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MiProfewFav.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Shome\\source\\repos\\WebApiArtistas\\WebApiArtistas\\wwwroot\\nuevosRegistros.txt",
+      "SourceId": "WebApiArtistas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shome\\source\\repos\\WebApiArtistas\\WebApiArtistas\\wwwroot\\",
+      "BasePath": "_content/WebApiArtistas",
+      "RelativePath": "nuevosRegistros.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\nuevosRegistros.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Shome\\source\\repos\\WebApiArtistas\\WebApiArtistas\\wwwroot\\registroConsultado.txt",
+      "SourceId": "WebApiArtistas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shome\\source\\repos\\WebApiArtistas\\WebApiArtistas\\wwwroot\\",
+      "BasePath": "_content/WebApiArtistas",
+      "RelativePath": "registroConsultado.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\registroConsultado.txt"
+    }
+  ]
 }
